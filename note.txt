@@ -13,5 +13,7 @@ git remote add origin https://github.com/duy126/bc-67-demo-git.git : liên kết
 git add -A.
 git commit -m "noi dung commit"
 git push -u origin master ( lần đầu tiên) / git push ( lần thứ 2 trở đi)
-bci ali
-bac 
+
+tạo nhánh, chuyển nhánh
+
+git checkout -n tenNhanhmoi

@@ -1,0 +1,15 @@
+git : version control system( Phần mềm quản lý code)
+
+
+github: nơi lưu trữ code online (icould, drive,....)
+
+git init: khởi tạo repo local
+
+
+git remote add origin https://github.com/duy126/bc-67-demo-git.git : liên kết repo local và repo remote.
+
+đưa code lên github: 3 bước.
+
+git add -A.
+git commit -m "noi dung commit"
+git push -u origin master

@@ -16,4 +16,6 @@ git push -u origin master ( lần đầu tiên) / git push ( lần thứ 2 trở
 
 tạo nhánh, chuyển nhánh
 
-git checkout -n tenNhanhmoi
+git checkout -n tenNhanhmoi: tạo nhánh mới
+git branch ~ show danh sách hiện thị nhánh hiện tại 
+git checkout tennhanhcanchuyen : chuyển sang nhánh mới
